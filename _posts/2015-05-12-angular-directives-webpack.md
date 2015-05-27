@@ -5,6 +5,8 @@ date:   2015-05-12
 categories: posts
 comments: true
 ---
+This whole experiment has a working [github version here](https://github.com/dckesler/angular-directives-webpack).
+
 My favorite thing to write in angular is directives.
 I think I might be one of the few. Most of my coworkers don't really like to do anything with directives.
 I get it. They have a pretty bizarre api.
@@ -470,5 +472,7 @@ link(scope){
 That will print out `"duck"`.
 
 ## The End -
+
+Check out a [working version here](https://github.com/dckesler/angular-directives-webpack).
 
 Hit me up on [twitter](https://twitter.com/dckesler) if you like this and have questions. If you think it's stupid and have questions message me on linkedin.
